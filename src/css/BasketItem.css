@@ -1,0 +1,29 @@
+.basketItem{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.basketItem>img{
+  width: 180px;
+  height: 180px;
+  object-fit: contain;
+}
+.BasketItemRating{
+    display: flex;
+}
+.basketButton{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
+.basketItemText{
+    padding-left: 40px;
+}
+.basketItemText>h1{
+    font-weight: 800;
+    font-size: 17px;
+    margin-bottom: 4px;
+
+}

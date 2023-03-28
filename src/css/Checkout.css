@@ -1,0 +1,17 @@
+
+.checkout{
+    display: flex;
+    background-color: white;
+    height: max-content;
+    padding: 5px;
+}
+
+
+.checkoutLeft>img{
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 5px;
+}
+.checkoutLeft>h1{
+    border-bottom: 1px solid rgb(234, 237, 237);
+}
